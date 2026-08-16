@@ -41,3 +41,9 @@ header{
     gap: 1rem;
     min-height: 100vh;
 }
+.movie-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1rem;
+    padding: 20px;
+}
