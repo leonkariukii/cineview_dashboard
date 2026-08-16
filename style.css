@@ -5,7 +5,7 @@
     box-sizing: border-box;
 body{
     font-family: Arial, sans-serif;
-    background-color: lab(91.78% 3.73 1.32);}    
+    background-color: lab(95.15% 0.01 -0.01);}    
 }.top-nav{
     display: flex;
     justify-content: space-between;
@@ -48,7 +48,7 @@ header{
     padding: 20px;
 }
 .movie-card{
-    background-color: #f0eeee;
+    background-color: #c5c4c4;
     border: 1px solid #ddd;
     border-radius: 8px;
     overflow: hidden;
